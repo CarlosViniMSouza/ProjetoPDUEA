@@ -1,2 +1,2 @@
 # ProjetoPDUEA
-Projeto P&amp;D UEA - Aplicação IoT
+Projeto P&D UEA - Aplicação Ciência de Dados
